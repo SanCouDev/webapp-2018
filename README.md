@@ -3,5 +3,6 @@
 - Babel
 - SASS
 - Web pack
+- POstCSS
 
-### Avec git/gitHub
+### Avec Git/GitHub
