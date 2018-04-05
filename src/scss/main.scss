@@ -1,0 +1,13 @@
+@import '_variables';
+
+body {
+  background-color: rgba(68, 68, 70, 0.06);
+  color: $aqua;
+  padding: 2em;
+}
+
+p {
+  color: $aqua;
+  display: flex;
+  font-size: 2em;
+}
