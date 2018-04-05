@@ -37,7 +37,7 @@ function meteoDuJour(){
     const infosMeteo = {
         "villeID":"6325494",
         "units":"metric",
-        "langue":"en"
+        "langue":"fr"
 };
 
     const maMeteo = new Meteo(infosMeteo);
